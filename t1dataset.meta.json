@@ -1,0 +1,12 @@
+{
+  "type": "info",
+  "sensorId": 0,
+  "odrGyr": 200,
+  "filterGyr": 2,
+  "odrAcc": 100,
+  "filterAcc": 2,
+  "odrMag": 50,
+  "gscaleX": 0.0005321126081980765,
+  "gscaleY": 0.0005321126081980765,
+  "gscaleZ": 0.0005321126081980765
+}

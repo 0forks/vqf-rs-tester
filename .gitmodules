@@ -1,0 +1,3 @@
+[submodule "SlimeVR-Rust"]
+	path = SlimeVR-Rust
+	url = https://github.com/0forks/SlimeVR-Rust
